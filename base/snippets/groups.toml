@@ -1,5 +1,5 @@
 [[custom_groups]]
-name = "🔰 节点选择"
+name = "Proxies"
 type = "select"
 rule = ["[]Proxies", "[]DIRECT", ".*"]
 
