@@ -9,10 +9,6 @@ ipv6: false
 external-controller: 0.0.0.0:9090
 clash-for-android:
   append-system-dns: false
-profile:
-  tracing: true
-experimental:
-  sniff-tls-sni: true
 dns:
   enable: true
   listen: 127.0.0.1:8853
